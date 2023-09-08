@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate frontend developer from Switzerland</h3>
 
-- 🌱 I’m currently learning **all the newest trends in frontend development on Frontend Masters**
+- 🌱 I’m currently learning about **all cool innovations in frontend development on Frontend Masters, Youtube, Emails**
 
 - 💬 Ask me about **anything frontend related**
 
