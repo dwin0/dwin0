@@ -15,6 +15,5 @@
 <ul>
   <li>Next.js</li>
   <li>GraphQL</li>
-  <li>Turborepo</li>
   <li>AI (different ways to run it, see project below)</li>
 </ul>
