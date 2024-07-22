@@ -14,6 +14,7 @@
 <h2>Tools I used recently:</h2>
 <ul>
   <li>Next.js</li>
+  <li>Astro.js</li>
   <li>GraphQL</li>
   <li>AI (different ways to run it, see project below)</li>
 </ul>
