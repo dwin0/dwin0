@@ -2,7 +2,6 @@
 <h2 align="center">A passionate frontend developer from Switzerland</h2>
 
 - 📚 Always learning about all cool innovations in frontend development on [Frontend Masters](https://frontendmasters.com/u/david_windler/), Youtube or via Newsletters
-- 🧩 Currently solving https://adventofcode.com/2024 while learning Golang
 
 <h2>Connect with me:</h2>
 <ul>
