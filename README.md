@@ -6,7 +6,7 @@
 
 <h2>Connect with me:</h2>
 <ul>
-  <li><a href="https://linkedin.com/in/david-windler" target="blank">On LinedIn <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-windler" height="30" width="40" /></a></li>
+  <li><a href="https://linkedin.com/in/david-windler" target="blank">On LinkedIn <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-windler" height="30" width="40" /></a></li>
 </ul>
 
 <h2>Tools I used recently:</h2>
